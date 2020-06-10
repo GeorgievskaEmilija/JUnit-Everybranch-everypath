@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cf71029-d8e1-4fd9-9c17-864e60b08a18" name="Default Changelist" comment="" />
+    <list default="true" id="7cf71029-d8e1-4fd9-9c17-864e60b08a18" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/CFG-183044.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +76,9 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Desktop\SI_lab2_183044\img" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -86,7 +92,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.SILab2Test.everyBranchTest">
+  <component name="RunManager" selected="Gradle.SILab2Test">
     <configuration name="SILab2Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -149,9 +155,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.SILab2Test" />
         <item itemvalue="Gradle.SILab2Test.everyBranchTest" />
         <item itemvalue="Gradle.SILab2Test.everyPathTest" />
-        <item itemvalue="Gradle.SILab2Test" />
       </list>
     </recent_temporary>
   </component>
@@ -165,8 +171,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591799790298</updated>
-      <workItem from="1591799796580" duration="19401000" />
+      <workItem from="1591799796580" duration="19648000" />
     </task>
+    <task id="LOCAL-00001" summary="Add CFD.">
+      <created>1591828933957</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591828933958</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,5 +196,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add CFD." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add CFD." />
   </component>
 </project>
